@@ -1,0 +1,9 @@
+import java.util.Scanner;
+public class E{
+  public static void main(String[] args){
+    System.out.println("pls enter a new word");
+    Scanner in = new Scanner(System.in);
+    String s = in.next();
+    System.out.print("you have just input"+S);
+  }
+}
